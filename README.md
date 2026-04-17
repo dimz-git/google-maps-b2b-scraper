@@ -1,4 +1,4 @@
-# 🤖 Google Maps Selenium Extractor (Premium B2B Leads)
+# 🤖 Google Maps Selenium Extractor
 
 <p align="center">
   <img src="excel.png" alt="Sample Data Hasil Ekstraksi">
