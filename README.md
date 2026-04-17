@@ -1,7 +1,7 @@
 # 🤖 Google Maps Selenium Extractor (Premium B2B Leads)
 
 <p align="center">
-  <img src="Screenshot_Data.png" alt="Sample Data Hasil Ekstraksi">
+  <img src="excel.png" alt="Sample Data Hasil Ekstraksi">
 </p>
 
 ## 📌 Deskripsi Singkat
